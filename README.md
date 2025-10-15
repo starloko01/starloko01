@@ -11,8 +11,8 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on a **React portfolio project**  
-- 🌱 I’m exploring **MongoDB**, **Node.js**, **Python**, and **AWS Cloud Services**  
-- 💬 Ask me about **React, JavaScript, or Backend Development**  
+- 🌱 I’m exploring **MongoDB**, **Python**, and **AWS Cloud Services**  
+- 💬 Ask me about ** Backend Development, React, JavaScript**  
 - 🌐 Reach me at: [**Portfolio Website**](#)  
 - ⚡ Fun fact: *I enjoy solving bugs more than creating them 😄*
 
