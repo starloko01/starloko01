@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on a **React portfolio project**  
 - 🌱 I’m exploring **MongoDB**, **Python**, and **AWS Cloud Services**  
 - 💬 Ask me about ** Backend Development, React, JavaScript**  
-- 🌐  Reach me at: [**Portfolio Website**](https://jovial-entremet-ae857f.netlify.app/)  
+- 🌐  Reach me at: [**Portfolio Website**](https://symphonious-tiramisu-4f3dc2.netlify.app/)  
 - ⚡ Fun fact: *I enjoy solving bugs more than creating them 😄*
 
 ---
